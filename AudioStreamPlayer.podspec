@@ -21,11 +21,11 @@ Pod::Spec.new do |s|
 TODO: Add long description of the pod here.
                        DESC
 
-  s.homepage         = 'https://github.com/basitmashwani/AudioStreamPlayer'
+  s.homepage         = 'https://github.com/Mashwani-Solutions/AudioStreamPlayer'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'Syed Abdul Basit' => 'abdul.basit@mercurialminds.com' }
-  s.source           = { :git => 'https://github.com/basitmashwani/AudioStreamPlayer.git', :tag => s.version.to_s }
+  s.source           = { :git => 'https://github.com/Mashwani-Solutions/AudioStreamPlayer.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/basitmashwani'
 
   s.ios.deployment_target = '8.0'
