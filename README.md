@@ -23,7 +23,7 @@ pod "AudioStreamPlayer"
 
 ## Author
 
-Syed Abdul Basit, abdul.basit@mercurialminds.com
+Syed Abdul Basit
 
 ## License
 
