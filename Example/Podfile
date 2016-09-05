@@ -2,10 +2,7 @@ use_frameworks!
 
 target 'AudioStreamPlayer_Example' do
   pod 'AudioStreamPlayer', :path => '../'
-
+end
   target 'AudioStreamPlayer_Tests' do
-    inherit! :search_paths
 
-    
-  end
 end

@@ -1,0 +1,14 @@
+PODS:
+  - AudioStreamPlayer (0.1.0)
+
+DEPENDENCIES:
+  - AudioStreamPlayer (from `../`)
+
+EXTERNAL SOURCES:
+  AudioStreamPlayer:
+    :path: ../
+
+SPEC CHECKSUMS:
+  AudioStreamPlayer: 542594396adef27c4f016403bc63f69d35bf0143
+
+COCOAPODS: 0.38.2
