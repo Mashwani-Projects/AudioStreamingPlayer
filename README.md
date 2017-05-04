@@ -1,9 +1,6 @@
 # AudioStreamPlayer
 
-[![CI Status](http://img.shields.io/travis/Syed Abdul Basit/AudioStreamPlayer.svg?style=flat)](https://travis-ci.org/Syed Abdul Basit/AudioStreamPlayer)
-[![Version](https://img.shields.io/cocoapods/v/AudioStreamPlayer.svg?style=flat)](http://cocoapods.org/pods/AudioStreamPlayer)
-[![License](https://img.shields.io/cocoapods/l/AudioStreamPlayer.svg?style=flat)](http://cocoapods.org/pods/AudioStreamPlayer)
-[![Platform](https://img.shields.io/cocoapods/p/AudioStreamPlayer.svg?style=flat)](http://cocoapods.org/pods/AudioStreamPlayer)
+From AudioStreamPlayer you can stream an audio file from remote.
 
 ## Example
 
